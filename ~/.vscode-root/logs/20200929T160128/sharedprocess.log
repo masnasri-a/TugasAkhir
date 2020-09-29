@@ -1,0 +1,21 @@
+[2020-09-29 16:01:32.215] [sharedprocess] [info] main {"machineId":"0ad8bbfdd811b95fb6cd4bdd10558c8ad3e9234489f7f8db92bca753201f3f36","windowId":2}
+[2020-09-29 16:01:32.255] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/CI3/~/.vscode-root/User/snippets'
+[2020-09-29 16:01:42.366] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-09-29 16:01:44.419] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.5.4
+[2020-09-29 16:01:45.237] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.bmewburn.vscode-intelephense-client-1.5.4: bmewburn.vscode-intelephense-client
+[2020-09-29 16:01:45.237] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.5.4
+[2020-09-29 16:01:45.238] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2020-09-29 16:01:45.301] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2020-09-29 16:01:51.981] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-09-29 16:01:52.981] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/esbenp.prettier-vscode-5.7.1
+[2020-09-29 16:01:53.263] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-5.7.1: esbenp.prettier-vscode
+[2020-09-29 16:01:53.264] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-5.7.1
+[2020-09-29 16:01:53.265] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-09-29 16:01:53.356] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-09-29 16:02:07.817] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-09-29 16:02:08.902] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-intellisense-2.3.14
+[2020-09-29 16:02:10.294] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-09-29 16:02:10.294] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2020-09-29 16:02:10.295] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-09-29 16:02:10.375] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2020-09-29 16:02:12.233] [sharedprocess] [info] Starting to clean up unused language packs.

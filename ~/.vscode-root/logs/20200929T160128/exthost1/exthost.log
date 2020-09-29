@@ -1,0 +1,78 @@
+[2020-09-29 16:01:30.589] [exthost] [info] extension host started
+[2020-09-29 16:01:30.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-29 16:01:30.634] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-29 16:01:30.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-29 16:01:30.652] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-29 16:01:30.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-29 16:01:30.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-29 16:01:30.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-29 16:01:30.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-29 16:01:30.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 16:01:30.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-29 16:01:30.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-29 16:01:30.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-29 16:01:30.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-29 16:01:30.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-29 16:01:30.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 16:01:30.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-09-29 16:01:30.785] [exthost] [info] eager extensions activated
+[2020-09-29 16:01:52.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-09-29 16:01:52.072] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-09-29 16:01:52.114] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-09-29 16:01:52.114] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-09-29 16:01:52.160] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-09-29 16:01:52.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-09-29 16:01:52.243] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-09-29 16:01:52.243] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-09-29 16:01:52.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-09-29 16:01:52.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-09-29 16:01:53.511] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-09-29 16:01:53.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-09-29 16:02:21.301] [exthost] [info] extension host started
+[2020-09-29 16:02:21.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-09-29 16:02:21.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-09-29 16:02:21.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-09-29 16:02:21.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-09-29 16:02:21.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-29 16:02:21.429] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-09-29 16:02:21.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-29 16:02:21.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-29 16:02:21.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 16:02:21.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-09-29 16:02:21.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-29 16:02:21.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-29 16:02:21.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-29 16:02:21.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-09-29 16:02:21.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-29 16:02:21.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-09-29 16:02:21.646] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"workspaceContains:**/*.php"}
+[2020-09-29 16:02:21.646] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/out/extension
+[2020-09-29 16:02:22.981] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2020-09-29 16:02:22.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/esbenp.prettier-vscode-5.7.1/dist/extension
+[2020-09-29 16:02:23.042] [exthost] [info] eager extensions activated
+[2020-09-29 16:02:30.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-09-29 16:02:30.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2020-09-29 16:02:30.312] [exthost] [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client {"startup":false,"extensionId":{"value":"bmewburn.vscode-intelephense-client","_lower":"bmewburn.vscode-intelephense-client"},"activationEvent":"onLanguage:php"}
+[2020-09-29 16:02:30.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.5.4/lib/extension
+[2020-09-29 16:10:08.193] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-09-29 16:10:08.212] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:510:799)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:510:748)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:497:187)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2020-09-29 16:10:09.113] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2020-09-29 16:10:09.114] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:510:799)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:510:748)
+	at new S (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:497:187)
+	at asSymbolInformation (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/node_modules/vscode-languageclient/lib/client.js:1002:62
+[2020-09-29 16:52:47.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-09-29 16:52:47.312] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
