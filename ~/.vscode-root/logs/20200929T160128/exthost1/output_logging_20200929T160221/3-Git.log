@@ -36,3 +36,248 @@ Use '--' to separate paths from revisions, like this:
 > git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
 > git check-ignore -v -z --stdin
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
+> git cat-file -s d83d75042232bfa354732551206abd7153e447b8
+> git show --textconv :application/views/Home/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
+> git cat-file -s d83d75042232bfa354732551206abd7153e447b8
+> git show --textconv :application/views/Home/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s d83d75042232bfa354732551206abd7153e447b8
+> git config --get commit.template
+> git show --textconv :application/views/Home/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
+> git cat-file -s d83d75042232bfa354732551206abd7153e447b8
+> git show --textconv :application/views/Home/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /opt/lampp/htdocs/CI3/application/views/Home/index.html
+> git cat-file -s d83d75042232bfa354732551206abd7153e447b8
+> git show --textconv :application/views/Home/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git pull --tags origin master
+From https://github.com/puikinsh/CoolAdmin
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/masnasri-a/TugasAkhir.git/'
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin master
+From https://github.com/puikinsh/CoolAdmin
+ * branch            master     -> FETCH_HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git check-ignore -v -z --stdin
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/masnasri-a/TugasAkhir.git/'
+> git fetch
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/masnasri-a/TugasAkhir.git/'
+> git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git fetch
+> git check-ignore -v -z --stdin
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/masnasri-a/TugasAkhir.git/'
+> git push -u origin master
+> git pull --tags origin master
+From https://github.com/puikinsh/CoolAdmin
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+> git checkout -q -b nasri --no-track HEAD
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse nasri
+> git rev-parse --symbolic-full-name nasri@{u}
+fatal: no upstream configured for branch 'nasri'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:570:14)
+    at Socket.socketOnEnd (_http_client.js:440:23)
+    at Socket.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  code: 'ECONNRESET'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/masnasri-a/TugasAkhir.git/'
+Missing or invalid credentials.
+Error: socket hang up
+    at connResetException (internal/errors.js:570:14)
+    at Socket.socketOnEnd (_http_client.js:440:23)
+    at Socket.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21) {
+  code: 'ECONNRESET'
+}
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/puikinsh/CoolAdmin.git/'
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/opt/lampp/htdocs/CI3/CoolAdmin/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse nasri
+> git rev-parse --symbolic-full-name nasri@{u}
+fatal: no upstream configured for branch 'nasri'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push -u origin nasri
+remote: 
+remote: Create a pull request for 'nasri' on GitHub by visiting:        
+remote:      https://github.com/masnasri-a/TugasAkhir/pull/new/nasri        
+remote: 
+To https://github.com/masnasri-a/TugasAkhir.git
+ * [new branch]      nasri -> nasri
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse nasri
+> git rev-parse --symbolic-full-name nasri@{u}
+> git rev-list --left-right nasri...refs/remotes/origin/nasri
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- .

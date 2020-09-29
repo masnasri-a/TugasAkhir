@@ -19,3 +19,21 @@
 [2020-09-29 16:02:10.295] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
 [2020-09-29 16:02:10.375] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
 [2020-09-29 16:02:12.233] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-29 18:15:25.921] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onedark
+[2020-09-29 18:15:28.356] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onedark /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/akamud.vscode-theme-onedark-2.2.2
+[2020-09-29 18:15:28.382] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.akamud.vscode-theme-onedark-2.2.2: akamud.vscode-theme-onedark
+[2020-09-29 18:15:28.383] [sharedprocess] [info] Renamed to /root/.vscode/extensions/akamud.vscode-theme-onedark-2.2.2
+[2020-09-29 18:15:28.383] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onedark
+[2020-09-29 18:15:28.412] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onedark
+[2020-09-29 18:16:40.280] [sharedprocess] [info] Installing extension: github.github-vscode-theme
+[2020-09-29 18:16:42.686] [sharedprocess] [info] Downloaded extension: github.github-vscode-theme /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/github.github-vscode-theme-1.1.5
+[2020-09-29 18:16:42.754] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.github.github-vscode-theme-1.1.5: github.github-vscode-theme
+[2020-09-29 18:16:42.754] [sharedprocess] [info] Renamed to /root/.vscode/extensions/github.github-vscode-theme-1.1.5
+[2020-09-29 18:16:42.755] [sharedprocess] [info] Installation completed. github.github-vscode-theme
+[2020-09-29 18:16:42.795] [sharedprocess] [info] Extensions installed successfully: github.github-vscode-theme
+[2020-09-29 18:16:56.160] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2020-09-29 18:16:56.766] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /opt/lampp/htdocs/CI3/~/.vscode-root/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.4
+[2020-09-29 18:16:57.860] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.knisterpeter.vscode-github-0.30.4: knisterpeter.vscode-github
+[2020-09-29 18:16:57.860] [sharedprocess] [info] Renamed to /root/.vscode/extensions/knisterpeter.vscode-github-0.30.4
+[2020-09-29 18:16:57.863] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
+[2020-09-29 18:16:57.930] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github

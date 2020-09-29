@@ -90,7 +90,8 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
@@ -169,7 +170,8 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
@@ -1453,15 +1455,15 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#24292e",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///opt/lampp/htdocs/CI3",
             "backupPath": "/opt/lampp/htdocs/CI3/~/.vscode-root/Backups/280825057ee3c88bec38c7e0569105ad",
             "uiState": {
                 "mode": 0,
-                "x": 930,
-                "y": 193,
+                "x": 793,
+                "y": 60,
                 "width": 1024,
                 "height": 768
             }
